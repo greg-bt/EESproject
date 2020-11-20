@@ -1,0 +1,29 @@
+{
+  "name": "ees-ejs-v4",
+  "version": "4.0.0",
+  "description": "DNO Network monitor for Network Rail desgined by su-greg as part of the Trainwrecks EES team",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su-greg/EESproject.git"
+  },
+  "keywords": [
+    "EES"
+  ],
+  "author": "su-greg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/su-greg/EESproject/issues"
+  },
+  "homepage": "https://github.com/su-greg/EESproject#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  }
+}
